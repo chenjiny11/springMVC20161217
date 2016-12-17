@@ -13,6 +13,7 @@ public class HelloController {
 		model.addAttribute("message", "Hello world!");
 		String patchTest = "test";
 		String patchTest2 = "gfds";
+		String patchTest3 = "kkk111";
 		return "hello";
 	}
 }
